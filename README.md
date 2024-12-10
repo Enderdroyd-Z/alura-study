@@ -25,7 +25,7 @@ Alura Study é uma aplicação web para ajudar na organização dos estudos diá
 ## 🛠 Como Instalar e Rodar o Projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/Alura Study.git
+git clone https://github.com/seu-usuario/Alura-Study.git
 cd Alura Study
 npm install
 npm start
